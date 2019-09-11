@@ -1,0 +1,2 @@
+# pwd
+repositori pwd ums
